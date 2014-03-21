@@ -1,0 +1,1 @@
+You can view the manager at http://<Your-host>/<path-to-install>/index.php/manager
